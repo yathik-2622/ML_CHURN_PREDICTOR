@@ -21,8 +21,6 @@ Saving the model
 
 # Creating a Streamlit UI for end-user predictions
 
-🛠️ Technologies Used
-```
 ## 🛠️ Technologies Used
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
@@ -37,7 +35,6 @@ Saving the model
 ![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blueviolet)
 ![CSV](https://img.shields.io/badge/Data-CSV-important)
 
-```
 ## 1. Download the Project ZIP File
 1. Download the ZIP file from Teams.
 2. Move it to Desktop.
